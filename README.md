@@ -1,20 +1,33 @@
 # ml_algos_from_scratch
-Implementing standard ML Algorithms from scratch (ref CS229)
 
-Algorithms implemented -
+Implementing standard ML algorithms from scratch (ref: CS229).
 
-  1. SUPERVISED LEARNING
-    -> Linear Regression
-    -> Logistic Regression
-    -> Locally Weighted Logistic Regression
-    -> SoftMax Regression
-    -> Gaussian Distributive Analysis (GDA)
-    -> Multinomial Naive Bayes Spam Classifier
-    -> Linear Support Vector Machines (SVM)
-     TBD#1 : Kernel SVM
-     TBD#2 : Decision Trees, Random Forests, XGBoost, Basic Neural Network
-  
-  2. UNSUPERVISED LEARNING
-    -> K Means Clustering
-     TBD : GMM, EM, Factor Analysis, PCA, ICA
-   
+## Algorithms Implemented
+
+### 1. Supervised Learning
+- Linear Regression
+- Logistic Regression
+- Locally Weighted Logistic Regression
+- Softmax Regression
+- Gaussian Discriminant Analysis (GDA)
+- Multinomial Naive Bayes Spam Classifier
+- Linear Support Vector Machines (SVM)
+
+#### TBD
+- Kernel SVM
+- Decision Trees
+- Random Forests
+- XGBoost
+- Basic Neural Network
+
+---
+
+### 2. Unsupervised Learning
+- K-Means Clustering
+
+#### TBD
+- Gaussian Mixture Models (GMM)
+- Expectation Maximization (EM)
+- Factor Analysis
+- Principal Component Analysis (PCA)
+- Independent Component Analysis (ICA)
