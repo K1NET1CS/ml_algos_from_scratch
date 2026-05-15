@@ -18,7 +18,7 @@ Implementing standard ML algorithms from scratch (ref: CS229).
 - Decision Trees
 - Random Forests
 - XGBoost
-- Basic Neural Network
+- Multi Layer Perceptron NN : MLP
 
 ---
 
