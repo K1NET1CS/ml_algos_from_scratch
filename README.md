@@ -12,13 +12,13 @@ Implementing standard ML algorithms from scratch (ref: CS229).
 - Gaussian Discriminant Analysis (GDA)
 - Multinomial Naive Bayes Spam Classifier
 - Linear Support Vector Machines (SVM)
+- Multi Layer Perceptron NN (MLP)
 
 #### TBD
 - Kernel SVM
 - Decision Trees
 - Random Forests
 - XGBoost
-- Multi Layer Perceptron NN (MLP)
 
 ---
 
