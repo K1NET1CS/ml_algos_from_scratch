@@ -24,9 +24,9 @@ Implementing standard ML algorithms from scratch (ref: CS229).
 
 ### 2. Unsupervised Learning
 - K-Means Clustering
+- Gaussian Mixture Models (GMM)
 
 #### TBD
-- Gaussian Mixture Models (GMM)
 - Expectation Maximization (EM)
 - Factor Analysis
 - Principal Component Analysis (PCA)
