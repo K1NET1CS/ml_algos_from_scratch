@@ -27,7 +27,6 @@ Implementing standard ML algorithms from scratch (ref: CS229).
 - Gaussian Mixture Models (GMM)
 
 #### TBD
-- Expectation Maximization (EM)
 - Factor Analysis
 - Principal Component Analysis (PCA)
 - Independent Component Analysis (ICA)
