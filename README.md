@@ -13,6 +13,7 @@ Implementing standard ML algorithms from scratch (ref: CS229).
 - Multinomial Naive Bayes Spam Classifier
 - Linear Support Vector Machines (SVM)
 - Multi Layer Perceptron NN (MLP)
+- Nearest Neighbours
 
 #### TBD
 - Kernel SVM
