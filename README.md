@@ -1,4 +1,4 @@
-# ml_algos_from_scratch
+# ML_Algos_from_Scratch
 
 Implementing standard ML algorithms from scratch (ref: CS229,CS231n).
 
