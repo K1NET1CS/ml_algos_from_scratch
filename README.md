@@ -1,6 +1,6 @@
 # ml_algos_from_scratch
 
-Implementing standard ML algorithms from scratch (ref: CS229).
+Implementing standard ML algorithms from scratch (ref: CS229,CS231n).
 
 ## Algorithms Implemented
 
@@ -14,6 +14,7 @@ Implementing standard ML algorithms from scratch (ref: CS229).
 - Linear Support Vector Machines (SVM)
 - Multi Layer Perceptron NN (MLP)
 - Nearest Neighbours
+- Deep Learning Algorithms (ref: CS231n)
 
 #### TBD
 - Kernel SVM
